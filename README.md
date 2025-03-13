@@ -1,7 +1,7 @@
 # Empowering Rural Education: AI-powered Classroom Observation  
   
 ### :ledger: Introduction  
-Texas has the largest number of rural students in the U.S., with 20% of campuses located in rural areas.  However, rural schools face significant challenges in teacher recruitment, retention and professional development of teachers. This challenge negatively impacts course quality, especially in STEM fields. Despite these challenges, research on rural education and its evaluation remains limited.  
+Texas has the largest number of rural students in the U.S., with 20% of campuses located in rural areas.  However, research on rural education and its evaluation remains limited.  
   
 This study explores the potential of **machine learning models to observe classroom instruction and provide valuable feedback to teachers.**  
 Additionally, it introduces **a platform where educators can upload classroom videos to receive both transcripts and Pedagogical Observation Protocol (POP; Lara-Alecio & Parker, 1994) predictions, enhancing their ability to assess and improve teaching practices.**
